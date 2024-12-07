@@ -1,0 +1,58 @@
+h1:hover {
+  color: rgb(2, 78, 2);
+  font-size: 45px;
+}
+h1,h2 {
+    text-align:center;
+  
+}
+
+img {
+  width:30%;0
+  height:150px;
+  border-radius: 40px;
+}
+
+html {
+
+  background-color: rgb(194, 236, 194);
+}
+
+header {
+  font-size: 45px;
+  text-align: center;
+}
+
+
+body {
+  padding-left: 100px;
+  padding-right: 20px;
+
+}
+
+
+
+h2:hover{
+  font-size: 30px;
+  color:rgb(10, 59, 10)
+
+}
+
+
+nav a{
+  display: block;
+  flex-direction: column;
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid rgb(14, 2, 65);
+  border-radius: 10px;
+  width: 1150px;
+  background: linear-gradient(rgb(121, 91, 170),rgb(114, 159, 173));
+  color:aliceblue;
+  text-align: center;
+  font-size: 20px;
+}
+
+.ya:hover{
+  font-size: 25px;
+}
